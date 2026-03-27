@@ -16,3 +16,4 @@ This project uses DSPy and the Gemini API to find a Pokemon that best matches a 
 - Processes 20 color themes in batch → outputs a clean DataFrame
 
 ## Example Output
+<img width="666" height="514" alt="Output_PokemonColorMatcher" src="https://github.com/user-attachments/assets/2b5a51cd-7e63-4d88-bcb7-cb504e4cbdd8" />
